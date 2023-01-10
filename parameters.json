@@ -1,0 +1,53 @@
+{
+	"fx1": { "pressed": 8575, "released": 8448 },
+	"fx2": { "pressed": 8831, "released": 8704 },
+	"shift": { "pressed": 9087, "released": 8960 },
+	"aux": { "pressed": 9343, "released": 9216 },
+	"cue": { "pressed": 9599, "released": 9472 },
+	"select": {
+		"button": { "pressed": 8319, "released": 8192 },
+		"encoder": { "turnedLeft": 8063, "turnedRight": 7937 }
+	},
+	"input1": {
+		"eq1": { "start": 1792, "end": 1919 },
+		"eq2": { "start": 3328, "end": 3455 },
+		"eq3": { "start": 4864, "end": 4991 },
+		"slider": { "start": 383, "end": 256 },
+		"button": { "pressed": 6527, "released": 6400 }
+	},
+	"input2": {
+		"eq1": { "start": 2048, "end": 2175 },
+		"eq2": { "start": 3584, "end": 3711 },
+		"eq3": { "start": 5120, "end": 5247 },
+		"slider": { "start": 639, "end": 512 },
+		"button": { "pressed": 6783, "released": 6656 }
+	},
+	"input3": {
+		"eq1": { "start": 2304, "end": 2431 },
+		"eq2": { "start": 3840, "end": 3967 },
+		"eq3": { "start": 5376, "end": 5503 },
+		"slider": { "start": 895, "end": 768 },
+		"button": { "pressed": 7039, "released": 6912 }
+	},
+	"input4": {
+		"eq1": { "start": 2560, "end": 2687 },
+		"eq2": { "start": 4096, "end": 4223 },
+		"eq3": { "start": 5632, "end": 5759 },
+		"slider": { "start": 1151, "end": 1024 },
+		"button": { "pressed": 7295, "released": 7168 }
+	},
+	"input5": {
+		"eq1": { "start": 2816, "end": 2943 },
+		"eq2": { "start": 4352, "end": 4479 },
+		"eq3": { "start": 5888, "end": 6015 },
+		"slider": { "start": 1407, "end": 1280 },
+		"button": { "pressed": 7551, "released": 7424 }
+	},
+	"input6": {
+		"eq1": { "start": 3072, "end": 3199 },
+		"eq2": { "start": 4608, "end": 4735 },
+		"eq3": { "start": 6144, "end": 6271 },
+		"slider": { "start": 1663, "end": 1536 },
+		"button": { "pressed": 7807, "released": 7680 }
+	}
+}
